@@ -90,8 +90,8 @@ layers:
   - ''
   - ''
   - PRINTSCREEN
-  - '&mkp RCLK'
-  - '&mkp LCLK'
+  - ''
+  - ''
   - LEFT
   - DOWN ARROW
   - UP ARROW
@@ -100,16 +100,16 @@ layers:
   - HOME
   - {t: ▽, type: trans}
   - ''
-  - ''
-  - ''
-  - PRINTSCREEN
+  - '&sw_3'
+  - '&sw_2'
+  - '&sw_1'
   - CLCK
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - '&mmv MOVE_LEFT'
-  - '&mmv MOVE_DOWN'
-  - '&mmv MOVE_UP'
-  - '&mmv MOVE_DOWN'
+  - ''
+  - ''
+  - ''
+  - ''
   - PAGE DOWN
   - END
   - {t: ▽, type: trans}
