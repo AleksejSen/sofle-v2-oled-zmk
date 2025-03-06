@@ -106,8 +106,8 @@ layers:
   - CLCK
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - ''
-  - ''
+  - '&mmv MOVE_LEFT'
+  - '&mmv MOVE_DOWN'
   - PRINTSCREEN
   - INSERT
   - PAGE DOWN
